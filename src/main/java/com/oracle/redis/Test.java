@@ -37,6 +37,7 @@ public class Test {
 		System.out.println("hello");
 		
 		
+		System.out.println("这是我的操作呀； ");
 	}
 
 }
