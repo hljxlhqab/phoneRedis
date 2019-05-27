@@ -20,6 +20,8 @@ public class Test {
 		}
 		edis.close();
 
+		
+		System.out.println("这是我的人呀；哈哈； ");
 	}
 
 }
