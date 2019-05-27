@@ -38,6 +38,8 @@ public class Test {
 		
 		
 		System.out.println("这是我的操作呀； ");
+		
+		System.out.println("update");
 	}
 
 }
