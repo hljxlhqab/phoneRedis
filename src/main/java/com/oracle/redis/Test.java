@@ -42,6 +42,10 @@ public class Test {
 		System.out.println("right;");
 		
 		System.out.println("update");
+
+		System.out.println("update");
+		
+		System.out.println("master update...");
 	}
 
 }
